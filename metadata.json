@@ -1,0 +1,6 @@
+{
+  "name": "Alkaline City",
+  "description": "An open-world GTA V-inspired city sandbox and HUD experience in Alkaline City with playable driving and roaming, 3-character switching, radial gear and radio wheels, wanted chases, interactive GPS map, and iFruit smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

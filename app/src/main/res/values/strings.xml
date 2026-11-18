@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alkaline City</string>
+    <string name="loading_city">LOADING ALKALINE CITY</string>
+    <string name="enter_city">ENTER ALKALINE CITY</string>
+    <string name="pause_title">ALKALINE CITY</string>
+    <string name="cd_pause_menu">Open pause menu</string>
+    <string name="cd_ifruit_phone">Open iFruit phone</string>
+    <string name="cd_character_wheel">Open character switch wheel</string>
+    <string name="cd_gear_wheel">Open gear and radio wheel</string>
+    <string name="cd_vehicle_toggle">Enter or exit vehicle</string>
+    <string name="cd_special_ability">Activate special ability</string>
+    <string name="cd_use_gear">Use selected gear</string>
+    <string name="cd_wanted_star">Wanted level star</string>
+    <string name="cd_back">Back</string>
+</resources>
